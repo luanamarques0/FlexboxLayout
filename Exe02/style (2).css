@@ -1,0 +1,51 @@
+body{
+    color: #fff;
+    text-align: center;
+}
+
+h1{
+    color: #bdb8ad;
+}
+
+#principal{
+    display: flex;
+    justify-content: center;
+}
+nav{
+    width: 6.5em;
+    height: 30em;
+    background-color: #bdb8ad;
+}
+
+header{
+    width: 50em;
+    height: 6em;
+    background-color: #44749d;
+}
+
+section{
+    display: flex;
+    width: 100%;
+}
+
+aside{
+    order: 2;
+    width: 15%;
+    height: 24em;
+    background-color: #bdb8ad;
+}
+
+#bloco{
+    width: 85%;
+}
+
+article{
+    background-color: #c6d4e1;
+    height: 80%;
+}
+
+footer{
+    height: 20%;
+    align-items:flex-end;
+    background-color: #44749d;
+}
