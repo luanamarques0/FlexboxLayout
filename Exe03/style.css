@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+header{
+    width: 80%;
+    background-color: brown;
+}
+
+main{
+    display: flex;
+}
+
+nav{
+    background-color: chocolate;
+    width: 10%;
+    order: 3;
+}
+
+aside{
+    background-color: coral;
+    width: 10%;
+    order: 2;
+}
+
+article{
+    width: 100%;
+    background-color: darkgoldenrod;
+
+}
